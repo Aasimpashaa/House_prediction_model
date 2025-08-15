@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+build/
+dist/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Data (keep private or use LFS)
+data/
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
